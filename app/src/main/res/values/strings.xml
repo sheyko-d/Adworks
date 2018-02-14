@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adworks</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="Load">Load</string>
+</resources>
